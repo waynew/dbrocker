@@ -1,0 +1,6 @@
+#!c:\Users\wwerner\programming\dbrocker\env\Scripts\python.exe
+# EASY-INSTALL-DEV-SCRIPT: 'dbrocker==0.1.0','rockit'
+__requires__ = 'dbrocker==0.1.0'
+__import__('pkg_resources').require('dbrocker==0.1.0')
+__file__ = 'c:\\Users\\wwerner\\programming\\dbrocker\\scripts\\rockit'
+exec(compile(open(__file__).read(), __file__, 'exec'))
